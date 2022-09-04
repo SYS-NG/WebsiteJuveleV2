@@ -50,8 +50,8 @@
       },
       {
         "title": "Unique compact design! ",
-        "description": "The most critical aspect when developing the mouse was size and shape. Our mouse measures in at 117x61x37 mm, making it small! The design is unique with a strong extrusion on the side to provide grip for a claw-style grip and a smooth hump for improved palm grip. We hope you will enjoy the shape as much as we do!",
-        "img": "/assets/images/product1.jpg"
+        "description": "The most critical aspect when developing the mouse was size and shape. Our mouse measures in at 117x62x37 mm, making it small! The design is unique with a strong extrusion on the side to provide grip for a claw-style grip and a smooth hump for improved palm grip. We hope you will enjoy the shape as much as we do!",
+        "img": "/assets/images/design_idea.png"
       }
     ]
   },
@@ -68,7 +68,7 @@
       {
         "name": "Size",
         "description": "Small size is essential for many gamers who want to push their aim to the limit! While for normal day-to-day usage the mouse is designed to be used by all hand sizes!",
-        "icon": "/assets/images/tailwindcss.svg"
+        "icon": "/assets/images/measure.png"
       },
       {
         "name": "Comfort",
@@ -78,7 +78,7 @@
       {
         "name": "Repairability",
         "description": "Let's do our part! Our mice are assembled by hand, we plan on providing parts and manuals on how to repair the mouse! Our goal is to reduce wasted plastic, with out Plastic C3D we want YOU to reuse your mouse...",
-        "icon": "/assets/images/ts.png"
+        "icon": "/assets/images/repair.png"
       }
     ]
   },
@@ -137,7 +137,7 @@
     "socialMedia": {
       "github": "https://github.com/issaafalkattan",
       "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "linkedin": "null"
     }
   }
 }
